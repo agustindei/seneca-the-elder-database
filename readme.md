@@ -188,7 +188,7 @@ Future releases may include:
 
 If you use this database, please cite:
 
-> *Seneca the Elder Prosopographical Database (SEPD)*, Version X.X.
+> *Seneca the Elder Database*, Version X.X.
 
 When available, please also cite the associated Zenodo DOI.
 

@@ -85,10 +85,6 @@ person_id (PK)
 canonical_name
 language
 
-        │
-        │ 1
-        │
-        │ N
 name_variants
 ----------------------------
 variant_id (PK)
@@ -97,10 +93,6 @@ canonical_name
 variant
 variant_type
 
-        │
-        │ 1
-        │
-        │ N
 occurrences
 ----------------------------
 occurrence_id (PK)

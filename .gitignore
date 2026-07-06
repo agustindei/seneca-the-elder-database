@@ -1,1 +1,13 @@
-.build_db.py
+# Ignore the database builder
+build_db.py
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store

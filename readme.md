@@ -133,7 +133,7 @@ Primary source:
 # Repository Structure
 
 ```
-├──seneca.db
+├── seneca.db
 ├── README.md
 └── LICENSE
 ```

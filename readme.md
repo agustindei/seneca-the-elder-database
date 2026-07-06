@@ -133,7 +133,14 @@ Primary source:
 # Repository Structure
 
 ```
-├── seneca.db
+├── csv/
+│   ├── persons.csv
+│   ├── variants.csv
+│   └── occurrences_full.csv
+│
+├── database/
+│   └── seneca.db
+│
 ├── README.md
 └── LICENSE
 ```

@@ -1,0 +1,345 @@
+variant_id,person_id,canonical_name,variant,variant_type
+V000001,P0001,Accius Postumius,Accius Postumius,canonical
+V000002,P0002,Adaeus,Adaeus,canonical
+V000003,P0003,Aemilianus,Aemilianus,canonical
+V000004,P0004,Aeschines,Aeschines,canonical
+V000005,P0005,Apaturius,Apaturius,canonical
+V000007,P0006,Albucius Silus,Albuci Sili,variant
+V000008,P0006,Albucius Silus,Albucii Sili,variant
+V000009,P0006,Albucius Silus,Albucius,variant
+V000006,P0006,Albucius Silus,Albucius Silus,canonical
+V000010,P0007,Antonius Atticus,Antonius Atticus,canonical
+V000011,P0007,Antonius Atticus,Atticus,variant
+V000013,P0008,Agroitas Massilienis,Agroitas,variant
+V000012,P0008,Agroitas Massilienis,Agroitas Massilienis,canonical
+V000015,P0009,Alfius Flauus,Alfi Flaui,variant
+V000016,P0009,Alfius Flauus,Alfio Flauo,variant
+V000014,P0009,Alfius Flauus,Alfius Flauus,canonical
+V000018,P0010,Apollodorus,Apollodorum,variant
+V000017,P0010,Apollodorus,Apollodorus,canonical
+V000019,P0011,Apollonius,Apollonius,canonical
+V000021,P0012,Arbronius Silo,Arbronium Silonem,variant
+V000020,P0012,Arbronius Silo,Arbronius Silo,canonical
+V000032,P0013,Arellius Fuscus,Arelli,variant
+V000024,P0013,Arellius Fuscus,Arelli Fusci,variant
+V000023,P0013,Arellius Fuscus,Arelli Fusci Patris,variant
+V000030,P0013,Arellius Fuscus,Arellium Fuscum,variant
+V000022,P0013,Arellius Fuscus,Arellius Fuscus,canonical
+V000025,P0013,Arellius Fuscus,Fusci Arelli,variant
+V000028,P0013,Arellius Fuscus,Fusci Arelli Patris,variant
+V000026,P0013,Arellius Fuscus,Fusco Arellio,variant
+V000031,P0013,Arellius Fuscus,Fuscum,variant
+V000029,P0013,Arellius Fuscus,Fuscus,variant
+V000027,P0013,Arellius Fuscus,Fuscus Arellius,variant
+V000034,P0014,Argentarius,Argentari,variant
+V000035,P0014,Argentarius,Argentarii,variant
+V000033,P0014,Argentarius,Argentarius,canonical
+V000036,P0015,Asilius Sabinus,Asilius Sabinus,canonical
+V000037,P0015,Asilius Sabinus,Sabinus Asilius,variant
+V000039,P0016,Atticus Vipsanius,Attico Vipsanio,variant
+V000038,P0016,Atticus Vipsanius,Atticus Vipsanius,canonical
+V000042,P0017,L Arruntius,Arruntius,variant
+V000040,P0017,L Arruntius,L Arruntius,canonical
+V000041,P0017,L Arruntius,L. Arruntius,variant
+V000044,P0018,Artemon Glycon,Artemo,variant
+V000043,P0018,Artemon Glycon,Artemon Glycon,canonical
+V000046,P0019,Asinius Pollio,Asini Pollionis,variant
+V000051,P0019,Asinius Pollio,Asinius,variant
+V000045,P0019,Asinius Pollio,Asinius Pollio,canonical
+V000049,P0019,Asinius Pollio,Pollio,variant
+V000047,P0019,Asinius Pollio,Pollio Asinius,variant
+V000050,P0019,Asinius Pollio,Pollionem Asinium,variant
+V000048,P0019,Asinius Pollio,Pollionis Asini,variant
+V000052,P0020,Attalus,Attalus,canonical
+V000054,P0021,Aufidius Bassus,Aufidi Bassi,variant
+V000056,P0021,Aufidius Bassus,Aufidius,variant
+V000053,P0021,Aufidius Bassus,Aufidius Bassus,canonical
+V000055,P0021,Aufidius Bassus,Bassi Aufidi,variant
+V000057,P0022,Barbarus,Barbarus,canonical
+V000059,P0023,Blandus,Blandi,variant
+V000060,P0023,Blandus,Blando,variant
+V000058,P0023,Blandus,Blandus,canonical
+V000061,P0024,Buteo,Buteo,canonical
+V000062,P0024,Buteo,Buteonis,variant
+V000063,P0025,Brocco,Brocco,canonical
+V000064,P0025,Brocco,Broccus,variant
+V000066,P0026,Bruttedius Niger,Bruttedi Nigri,variant
+V000065,P0026,Bruttedius Niger,Bruttedius Niger,canonical
+V000067,P0026,Bruttedius Niger,Nigro Bruttedio,variant
+V000068,P0027,Brutus Bruttedius,Brutus Bruttedius,canonical
+V000069,P0028,Caius Sallustius Crispus,Caius Sallustius Crispus,canonical
+V000070,P0028,Caius Sallustius Crispus,Sallusti,variant
+V000071,P0028,Caius Sallustius Crispus,Sallustio,variant
+V000072,P0028,Caius Sallustius Crispus,Sallustium,variant
+V000074,P0029,Caluus Licinius,Caluus,variant
+V000073,P0029,Caluus Licinius,Caluus Licinius,canonical
+V000076,P0030,Cassius Seuerus,Cassi Seueri,variant
+V000075,P0030,Cassius Seuerus,Cassius Seuerus,canonical
+V000077,P0030,Cassius Seuerus,Seuerus Cassius,variant
+V000078,P0031,C Cassius,C Cassius,canonical
+V000079,P0031,C Cassius,C. Cassi,variant
+V000080,P0031,C Cassius,C. Cassium,variant
+V000082,P0032,Catius Crispus,Catius Crespus,variant
+V000081,P0032,Catius Crispus,Catius Crispus,canonical
+V000087,P0033,Cestius Pius,Cesti,variant
+V000085,P0033,Cestius Pius,Cesti Pi,variant
+V000084,P0033,Cestius Pius,Cesti Pii,variant
+V000086,P0033,Cestius Pius,Cestius,variant
+V000083,P0033,Cestius Pius,Cestius Pius,canonical
+V000091,P0034,Claudius Marcellus Aeserninus,Claudi Marcelli,variant
+V000089,P0034,Claudius Marcellus Aeserninus,Claudi Marcelli Aesernini,variant
+V000088,P0034,Claudius Marcellus Aeserninus,Claudius Marcellus Aeserninus,canonical
+V000093,P0034,Claudius Marcellus Aeserninus,Marcelli,variant
+V000090,P0034,Claudius Marcellus Aeserninus,Marcelli Aesernini,variant
+V000092,P0034,Claudius Marcellus Aeserninus,Marcellus Aeserninus,variant
+V000095,P0035,Clodius Sabinus,Clodi Sabini,variant
+V000096,P0035,Clodius Sabinus,Clodius Sabini,variant
+V000094,P0035,Clodius Sabinus,Clodius Sabinus,canonical
+V000097,P0035,Clodius Sabinus,Sabinus Clodius,variant
+V000102,P0036,Clodius Turrinus,Clodi,variant
+V000099,P0036,Clodius Turrinus,Clodi Turrini,variant
+V000100,P0036,Clodius Turrinus,Clodi Turrini Patris,variant
+V000098,P0036,Clodius Turrinus,Clodius Turrinus,canonical
+V000101,P0036,Clodius Turrinus,Turrinus Clodius,variant
+V000106,P0037,Cornelius Hispanus,Corneli Hispani,variant
+V000107,P0037,Cornelius Hispanus,Cornelii Hispani,variant
+V000108,P0037,Cornelius Hispanus,Cornelio,variant
+V000103,P0037,Cornelius Hispanus,Cornelius Hispanus,canonical
+V000105,P0037,Cornelius Hispanus,Hispani Corneli,variant
+V000104,P0037,Cornelius Hispanus,Hispanus Cornelius,variant
+V000109,P0038,Cornelius Seuerus,Cornelius Seuerus,canonical
+V000111,P0038,Cornelius Seuerus,Seueri Cornelii,variant
+V000110,P0038,Cornelius Seuerus,Seuero Cornelio,variant
+V000112,P0039,Cornelius Tuscus,Cornelius Tuscus,canonical
+V000113,P0039,Cornelius Tuscus,Tuscus,variant
+V000115,P0040,Coruus,Coruo,variant
+V000114,P0040,Coruus,Coruus,canonical
+V000116,P0041,Capito,Capito,canonical
+V000117,P0041,Capito,Capitonis,variant
+V000118,P0042,Craton,Craton,canonical
+V000120,P0043,Crispus,Crispum,variant
+V000119,P0043,Crispus,Crispus,canonical
+V000121,P0044,Damas Scombrus,Damas Scombrus,canonical
+V000123,P0045,Diocles Carystius,Dioclen Carystium,variant
+V000122,P0045,Diocles Carystius,Diocles Carystius,canonical
+V000125,P0046,Dyonisius Filius,Dionysius,variant
+V000124,P0046,Dyonisius Filius,Dyonisius Filius,canonical
+V000127,P0047,Domitius,Domitium,variant
+V000126,P0047,Domitius,Domitius,canonical
+V000128,P0048,Dorion,Dorion,canonical
+V000129,P0048,Dorion,Dorionis,variant
+V000130,P0049,Euctemon,Euctemon,canonical
+V000131,P0050,Fabius Maximus,Fabius Maximus,canonical
+V000132,P0050,Fabius Maximus,Maximus,variant
+V000134,P0051,Festus,Festi,variant
+V000133,P0051,Festus,Festus,canonical
+V000136,P0052,Florus,Florum,variant
+V000135,P0052,Florus,Florus,canonical
+V000138,P0053,Fuluus Sparsus,Fului Sparsi,variant
+V000139,P0053,Fuluus Sparsus,Fuluii Sparsi,variant
+V000137,P0053,Fuluus Sparsus,Fuluus Sparsus,canonical
+V000140,P0053,Fuluus Sparsus,Sparsus,variant
+V000142,P0054,Furius Saturnius,Furius,variant
+V000141,P0054,Furius Saturnius,Furius Saturnius,canonical
+V000143,P0055,Gargonius,Gargonius,canonical
+V000145,P0056,Gauius Sabinus,Gaui Sabini,variant
+V000144,P0056,Gauius Sabinus,Gauius Sabinus,canonical
+V000147,P0057,Gauius Silo,Gaui Silonis,variant
+V000146,P0057,Gauius Silo,Gauius Silo,canonical
+V000148,P0057,Gauius Silo,Silo Gauius,variant
+V000149,P0058,Glaucippus Cappadox,Glaucippus Cappadox,canonical
+V000150,P0059,Glycon Spyridion,Glycon Spyridion,canonical
+V000151,P0060,Gorgias,Gorgias,canonical
+V000152,P0061,Grandaus,Grandaus,canonical
+V000153,P0062,Hermagoras,Hermagoras,canonical
+V000154,P0063,Hispo Romanius,Hispo Romanius,canonical
+V000155,P0063,Hispo Romanius,Hispo Romantus,variant
+V000156,P0063,Hispo Romanius,Hispo Rromanius,variant
+V000157,P0063,Hispo Romanius,Hisponis Romani,variant
+V000158,P0063,Hispo Romanius,Romani Hisponis,variant
+V000159,P0063,Hispo Romanius,Romanius,variant
+V000160,P0064,Hybreas,Hybreas,canonical
+V000164,P0065,Iulius Bassus,Bassus Iulius,variant
+V000162,P0065,Iulius Bassus,Iuli Bassi,variant
+V000163,P0065,Iulius Bassus,Iulii Bassi,variant
+V000161,P0065,Iulius Bassus,Iulius Bassus,canonical
+V000165,P0066,Iulius Montanus,Iulius Montanus,canonical
+V000166,P0066,Iulius Montanus,Montanus Iulius,variant
+V000168,P0067,Iulius Sabinus,Iulio Sabino,variant
+V000167,P0067,Iulius Sabinus,Iulius Sabinus,canonical
+V000172,P0068,Iunius Gallio,Gallio,variant
+V000170,P0068,Iunius Gallio,Iuni Gallionis,variant
+V000171,P0068,Iunius Gallio,Iunii Gallionis,variant
+V000169,P0068,Iunius Gallio,Iunius Gallio,canonical
+V000174,P0069,Iunius Otho,Iuni Othonis,variant
+V000176,P0069,Iunius Otho,Iuni Othonis Patris,variant
+V000175,P0069,Iunius Otho,Iunii Othonis,variant
+V000178,P0069,Iunius Otho,Iunii Othonis Patris,variant
+V000173,P0069,Iunius Otho,Iunius Otho,canonical
+V000177,P0069,Iunius Otho,Otho Iunius,variant
+V000179,P0069,Iunius Otho,Otho Iunius Pater,variant
+V000180,P0069,Iunius Otho,Otho Pater,variant
+V000181,P0069,Iunius Otho,Othonem,variant
+V000182,P0070,Licinius Nepos,Licinius Nepos,canonical
+V000191,P0070,Licinius Nepos,Nepos Licinius,variant
+V000184,P0071,Laberius,Laberium,variant
+V000183,P0071,Laberius,Laberius,canonical
+V000186,P0072,Labienus,Labieni,variant
+V000187,P0072,Labienus,Labieno,variant
+V000185,P0072,Labienus,Labienus,canonical
+V000189,P0073,Lepidus,Lepido,variant
+V000188,P0073,Lepidus,Lepidus,canonical
+V000190,P0074,Lesbocles,Lesbocles,canonical
+V000192,P0076,L Magius,L Magius,canonical
+V000193,P0076,L Magius,L. Magius,variant
+V000195,P0077,Titus Liuius,Liuius,variant
+V000196,P0077,Titus Liuius,T. Liui,variant
+V000194,P0077,Titus Liuius,Titus Liuius,canonical
+V000197,P0078,Mamilius Nepos,Mamilius Nepos,canonical
+V000198,P0078,Mamilius Nepos,Nepos Mamilius,variant
+V000201,P0079,Marcellus Marcius,Marcellum Marcium,variant
+V000199,P0079,Marcellus Marcius,Marcellus Marcius,canonical
+V000200,P0079,Marcellus Marcius,Marcium,variant
+V000204,P0080,Marullus,Marilli,variant
+V000203,P0080,Marullus,Marulli,variant
+V000202,P0080,Marullus,Marullus,canonical
+V000206,P0081,Maximus Stertinius,Maximum Stertinium,variant
+V000205,P0081,Maximus Stertinius,Maximus Stertinius,canonical
+V000208,P0082,Menestratus,Menestrati,variant
+V000207,P0082,Menestratus,Menestratus,canonical
+V000209,P0083,Mento,Mento,canonical
+V000210,P0083,Mento,Mentonis,variant
+V000212,P0084,Messala Coruinus,Messala,variant
+V000211,P0084,Messala Coruinus,Messala Coruinus,canonical
+V000213,P0085,Metrodoro,Metrodoro,canonical
+V000215,P0086,Miltiades,Miltiaden,variant
+V000214,P0086,Miltiades,Miltiades,canonical
+V000217,P0087,Moderatus,Moderatum,variant
+V000216,P0087,Moderatus,Moderatus,canonical
+V000219,P0088,Murredius,Murredium,variant
+V000218,P0088,Murredius,Murredius,canonical
+V000220,P0089,Nicetes,Nicetes,canonical
+V000221,P0089,Nicetes,Nicetis,variant
+V000223,P0090,Nicocrates Lacon,Nicocrates,variant
+V000222,P0090,Nicocrates Lacon,Nicocrates Lacon,canonical
+V000225,P0091,Moschus,Moschum,variant
+V000224,P0091,Moschus,Moschus,canonical
+V000226,P0092,Musa,Musa,canonical
+V000227,P0092,Musa,Musae,variant
+V000230,P0093,Oscus,Osci,variant
+V000229,P0093,Oscus,Oscum,variant
+V000228,P0093,Oscus,Oscus,canonical
+V000232,P0094,Quintilianus Senex,Quintilianus,variant
+V000231,P0094,Quintilianus Senex,Quintilianus Senex,canonical
+V000233,P0095,Pacatus,Pacatus,canonical
+V000234,P0096,Pammenes,Pammenes,canonical
+V000237,P0097,Passienus,Passieni,variant
+V000236,P0097,Passienus,Passieno,variant
+V000235,P0097,Passienus,Passienus,canonical
+V000239,P0098,Pastor Aietius,Aietius,variant
+V000238,P0098,Pastor Aietius,Pastor Aietius,canonical
+V000241,P0099,Paternus,Paternum,variant
+V000240,P0099,Paternus,Paternus,canonical
+V000243,P0100,Pomponius,Pomponium,variant
+V000242,P0100,Pomponius,Pomponius,canonical
+V000244,P0101,Porcellus,Porcellus,canonical
+V000245,P0102,Potamon,Potamon,canonical
+V000248,P0103,Publilius,Publili,variant
+V000247,P0103,Publilius,Publilianam,variant
+V000246,P0103,Publilius,Publilius,canonical
+V000253,P0104,P Asprenas,Asprenas,variant
+V000254,P0104,P Asprenas,Asprenatis,variant
+V000249,P0104,P Asprenas,P Asprenas,canonical
+V000250,P0104,P Asprenas,P Asprenatis,variant
+V000251,P0104,P Asprenas,P. Asprenatis,variant
+V000252,P0104,P Asprenas,Publi Asprenatis,variant
+V000256,P0105,P Vinicius,P Vinici,variant
+V000255,P0105,P Vinicius,P Vinicius,canonical
+V000257,P0105,P Vinicius,P. Vinici,variant
+V000258,P0105,P Vinicius,P. Vinicii,variant
+V000259,P0105,P Vinicius,Vinici,variant
+V000260,P0106,L Vinicius,L Vinicius,canonical
+V000261,P0106,L Vinicius,L. Vinicius,variant
+V000262,P0107,L Asprenas,L Asprenas,canonical
+V000263,P0107,L Asprenas,L. Asprenas,variant
+V000267,P0108,Papirius Fabianus,Fabiani,variant
+V000266,P0108,Papirius Fabianus,Fabiani Papirii,variant
+V000269,P0108,Papirius Fabianus,Fabiano,variant
+V000268,P0108,Papirius Fabianus,Fabianus,variant
+V000265,P0108,Papirius Fabianus,Papiri Fabiani,variant
+V000264,P0108,Papirius Fabianus,Papirius Fabianus,canonical
+V000271,P0109,Pompeius Silo,Pompei Silonis,variant
+V000270,P0109,Pompeius Silo,Pompeius Silo,canonical
+V000274,P0109,Pompeius Silo,Silo,variant
+V000272,P0109,Pompeius Silo,Silo Pompeius,variant
+V000273,P0109,Pompeius Silo,Silonis Pompei,variant
+V000277,P0110,Porcius Latro,Latro,variant
+V000279,P0110,Porcius Latro,Latrone,variant
+V000280,P0110,Porcius Latro,Latronem,variant
+V000281,P0110,Porcius Latro,Latroni,variant
+V000282,P0110,Porcius Latro,Latronis,variant
+V000278,P0110,Porcius Latro,Latronis Porci,variant
+V000276,P0110,Porcius Latro,Porci Latronis,variant
+V000275,P0110,Porcius Latro,Porcius Latro,canonical
+V000283,P0111,Plution,Plution,canonical
+V000285,P0112,Ouidius,Naso,variant
+V000286,P0112,Ouidius,Ouidio Nasone,variant
+V000284,P0112,Ouidius,Ouidius,canonical
+V000287,P0112,Ouidius,Ouidius Naso,variant
+V000291,P0113,Q Haterius,Haterius,variant
+V000289,P0113,Q Haterius,Q Hateri,variant
+V000288,P0113,Q Haterius,Q Haterius,canonical
+V000290,P0113,Q Haterius,Q. Hateri,variant
+V000292,P0113,Q Haterius,Q. Haterius,variant
+V000294,P0114,Sabidienus Paulus,Sabidiebius Paulus,variant
+V000293,P0114,Sabidienus Paulus,Sabidienus Paulus,canonical
+V000296,P0115,Saturnius Furius,Saturnius,variant
+V000295,P0115,Saturnius Furius,Saturnius Furius,canonical
+V000298,P0116,Scaurus,Scauro,variant
+V000297,P0116,Scaurus,Scaurus,canonical
+V000299,P0117,Seneca,Seneca,canonical
+V000300,P0118,Senianus,Senianus,canonical
+V000303,P0119,Sepullius Bassus,Bassi Sepulli,variant
+V000302,P0119,Sepullius Bassus,Sepulli Bassi,variant
+V000301,P0119,Sepullius Bassus,Sepullius Bassus,canonical
+V000304,P0120,Sextilius Ena,Sextilius Ena,canonical
+V000305,P0121,Statorius Victor,Statorius Victor,canonical
+V000306,P0121,Statorius Victor,Victoris Statori,variant
+V000307,P0122,Surdinus,Surdinus,canonical
+V000309,P0123,Triarius,Triari,variant
+V000310,P0123,Triarius,Triarii,variant
+V000308,P0123,Triarius,Triarius,canonical
+V000314,P0124,Vallius Syriacus,Syriaco,variant
+V000315,P0124,Vallius Syriacus,Syriacus,variant
+V000313,P0124,Vallius Syriacus,Syriacus Vallius,variant
+V000312,P0124,Vallius Syriacus,Valli Syriaci,variant
+V000311,P0124,Vallius Syriacus,Vallius Syriacus,canonical
+V000319,P0125,Varius Geminus,Geminus Varius,variant
+V000317,P0125,Varius Geminus,Vari Gemini,variant
+V000318,P0125,Varius Geminus,Varium,variant
+V000316,P0125,Varius Geminus,Varius Geminus,canonical
+V000320,P0126,T Varro,T Varro,canonical
+V000321,P0126,T Varro,Varronis,variant
+V000322,P0127,Varus Quintilius,Varus Quintilius,canonical
+V000327,P0128,Vibius Rufus,Rrfus Vibius,variant
+V000330,P0128,Vibius Rufus,Rufi,variant
+V000325,P0128,Vibius Rufus,Rufi Vibi,variant
+V000326,P0128,Vibius Rufus,Rufi Vibii,variant
+V000329,P0128,Vibius Rufus,Rufus,variant
+V000328,P0128,Vibius Rufus,Rufus Vibius,variant
+V000324,P0128,Vibius Rufus,Vibi Rufi,variant
+V000323,P0128,Vibius Rufus,Vibius Rufus,canonical
+V000332,P0129,Vibius Gallus,Gallus Vibius,variant
+V000333,P0129,Vibius Gallus,Vibi Galli,variant
+V000331,P0129,Vibius Gallus,Vibius Gallus,canonical
+V000337,P0130,Votienus Montanus,Montani Votieni,variant
+V000336,P0130,Votienus Montanus,Montanus Votienus,variant
+V000335,P0130,Votienus Montanus,Votieni Montani,variant
+V000334,P0130,Votienus Montanus,Votienus Montanus,canonical
+V000338,P0131,Albinouanus Pedo,Albinouanus Pedo,canonical
+V000339,P0132,Antiphon,Antiphon,canonical
+V000340,P0132,Antiphon,Antiphontis,variant
+V000342,P0134,Fabricius,Fabricio,variant
+V000341,P0134,Fabricius,Fabricius,canonical
+V000344,P0135,Theodorus,Theodorum,variant
+V000343,P0135,Theodorus,Theodorus,canonical

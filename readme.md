@@ -72,7 +72,7 @@ One record for each occurrence of a person in the corpus.
 | `chapter_head`   | Chapter heading                                               |
 | `label`          | Textual section (*Sententiae*, *DivisionesEtColores*) |
 | `pars`           | Internal subdivision where applicable                         |
-| `text`           | Paragraph containing the occurrence                           |
+| `text`           | Text containing the occurrence                           |
 
 ---
 

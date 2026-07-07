@@ -70,9 +70,9 @@ One record for each occurrence of a person in the corpus.
 | `book_n`         | Book number                                                   |
 | `chapter_n`      | Chapter number                                                |
 | `chapter_head`   | Chapter heading                                               |
-| `label`          | Textual section (*Sententiae*, *DivisionesEtColores*) |
+| `label`          | Textual section (*Sententiae*, *DivisionesEtColores*)         |
 | `pars`           | Internal subdivision where applicable                         |
-| `text`           | Text containing the occurrence                           |
+| `text`           | Text containing the occurrence                                |
 
 ---
 
@@ -202,11 +202,14 @@ Future releases may include:
 
 # Citation
 
-If you use this database, please cite:
+If you use the Seneca the Elder Database in your research, please cite:
 
-> *Seneca the Elder Database*, Version X.X.
+> Dei, Agustin. *Seneca the Elder Database*. Zenodo. DOI: 10.5281/zenodo.21245702
 
-When available, please also cite the associated Zenodo DOI.
+https://zenodo.org/records/21245702
+
+or use the BibTeX citation provided by Zenodo.
+
 
 ---
 

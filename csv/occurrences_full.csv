@@ -1,4 +1,4 @@
-person_id,occurrence_id,canonical_name,book_name,book_n,chapter_n,chapter_head,label,pars,paragraph
+person_id,occurrence_id,canonical_name,book_name,book_n,chapter_n,chapter_head,label,pars,text
 P0110,O00000001,Porcius Latro,controversiae,1,1,"Liberi parentes alant, aut uinciantur. Duo fratres
 inter se dissidebant; alteri filius erat. patruus in
 egestatem incidit; patre uetante adulescens illum

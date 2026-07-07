@@ -72,7 +72,7 @@ One record for each occurrence of a person in the corpus.
 | `chapter_head`   | Chapter heading                                               |
 | `label`          | Textual section (*Sententiae*, *DivisionesEtColores*) |
 | `pars`           | Internal subdivision where applicable                         |
-| `paragraph`      | Paragraph containing the occurrence                           |
+| `text`           | Paragraph containing the occurrence                           |
 
 ---
 
@@ -106,6 +106,15 @@ label
 pars
 paragraph
 ```
+
+## Database Info
+
+| Table         | Records |
+|---------------|---------|
+| Persons       | 135     |
+| Name variants | 344     |
+| Occurrences   | 1,378   |
+
 
 ---
 
